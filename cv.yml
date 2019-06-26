@@ -1,23 +1,35 @@
 full_name: "Uladzimir Dzhurko"
 
+age: 33,
+
+phone_number: (375)297654080
+skype: useless2007
+email: "j.u.n.i.a@tut.by"
+
+social:
+    vk: "https://vk.com/id8792719"
+    linkedin: "https://www.linkedin.com/in/vladimir-dzhurko-683533116"
+
+github:
+    name: "Ellirabeth"
+    url: "https://github.com/Ellirabeth"
+
+education:
+    title: IIT faculty of computer technologies, systems and networks
+    when: 2011-2015
+    institution: Belarusian State University of Informatics And Radio Electronics (BSUIR), Minsk
+
 goal: i want be a legend programmer
 
-programming_languages:
-  name: Java Core
-  name: JavaScript
-  name: PHP
-  name: HTML/CSS (Web Standards)
+programming_languages:  Java Core, JavaScript, PHP, HTML/CSS (Web Standards)
 
 have_a_job: 'Yes'
-  company: Premium soft, Minsk
+title: programmer
+company: Premium soft, Minsk
+
 
 laptop: none
 
 english: Pre-intermediate
 
-education:
-  title: IIT faculty of computer technologies, systems and networks
-  when: 2011-2015
-  institution: Belarusian State University of Informatics And Radio Electronics (BSUIR), Minsk
-
-hours_per_day: 8-10
+hours_per_day: 12
