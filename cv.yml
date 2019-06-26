@@ -1,1 +1,23 @@
 full_name: "Uladzimir Dzhurko"
+
+goal: i want be a legend programmer
+
+programming_languages:
+  name: Java Core
+  name: JavaScript
+  name: PHP
+  name: HTML/CSS (Web Standards)
+
+have_a_job: 'Yes'
+  company: Premium soft, Minsk
+
+laptop: none
+
+english: Pre-intermediate
+
+education:
+  title: IIT faculty of computer technologies, systems and networks
+  when: 2011-2015
+  institution: Belarusian State University of Informatics And Radio Electronics (BSUIR), Minsk
+
+hours_per_day: 8-10
