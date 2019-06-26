@@ -1,0 +1,38 @@
+full_name: "Dzhurko Uladzimir"
+
+contacts:
+  phone_number: (375)297654080
+  skype: useless2007
+  email: "j.u.n.i.a@tut.by"
+
+  social:
+    vk: "https://vk.com/id8792719"
+    github: "https://github.com/Ellirabeth"
+    linkedin: "https://www.linkedin.com/in/vladimir-dzhurko-683533116"
+
+  languages:
+    name: Java Core
+    name: JavaScript
+    name: PHP
+    name: HTML/CSS (Web Standards)
+
+  education:
+    title: IIT faculty of computer technologies, systems and networks
+    when: 2011-2015
+    institution: Belarusian State University of Informatics And Radio Electronics (BSUIR), Minsk
+
+  experience:
+    title: IT company
+    when: 2016-2019
+    company: Premium soft, Minsk
+
+  have_a_job: 'Yes'
+    company: Premium soft, Minsk
+
+  english: Pre-intermediate
+
+  goal: i want be a legend
+  programming_languages: java
+  laptop: nop
+  hours_per_day: 8-10
+  age: 30+
